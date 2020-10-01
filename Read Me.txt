@@ -1,0 +1,7 @@
+Data used:
+1. CSSEGISandData
+- retrieve data, clean country names, and used melt() to get the right format of data, finally combine it with flag data, then used Flourish to create visualization.
+2.Twitter data 
+- using tweety api to create word cloud
+3. Flag data (country flags with their images)
+- show country flag image
